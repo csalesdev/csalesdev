@@ -4,4 +4,4 @@
 - 🎯 Interessado por criar interfaces de usuário eficientes e responsivas.
 - 🌱 No momento, estou aprofundando meu conhecimento em **HTML**, **CSS** e **JavaScript** e animado para aprender **Vue.js** e **React** nos próximos meses.
 - ✨ Objetivo: Participar de projetos front-end e me aperfeiçoar.
-- 📫 Vamos nos conectar: [LinkedIn](www.linkedin.com/csalesdev)
+- 📫 Vamos nos conectar: [LinkedIn](https://www.linkedin.com/in/csalesdev/)
